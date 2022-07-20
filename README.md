@@ -1,1 +1,1 @@
-# -pesquisa_salarial_programadores_eua
+# Pesquisa Salarial da área de TI nos EUA
